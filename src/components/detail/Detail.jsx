@@ -85,16 +85,6 @@ const Detail = () => {
               </div>
               <img src="./download.png" alt="" className="icon" />
             </div>
-            <div className="photoItem">
-              <div className="photoDetail">
-                <img
-                  src="https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=260&h=150&dpr=2"
-                  alt=""
-                />
-                <span>photo_2024_2.png</span>
-              </div>
-              <img src="./download.png" alt="" className="icon" />
-            </div>
           </div>
         </div>
         <div className="option">
